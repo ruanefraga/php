@@ -2,7 +2,7 @@
     add_action('admin_menu', 'rf_register_menus');
 
     function rf_register_menus(){
-        add_options_page('Formulario Contato', 'Formulário de Contato', 'manage_options', 'rf_configuracoes_page', 'rf_render_page');
+        add_options_page('Formulario Contato', 'Formulário de Contato', 'manage_options', 'rf_render_page');
     }
 
     function rf_render_page(){
