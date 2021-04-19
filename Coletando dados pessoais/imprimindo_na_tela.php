@@ -3,7 +3,7 @@
 <head>
   <link rel="stylesheet" href="_css/estilo.css"/>
   <meta charset="UTF-8"/>
-  <title>Curso de PHP - CursoemVideo.com</title>
+  <title>Coletando dados</title>
 </head>
 <body>
 <div>
